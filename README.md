@@ -11,5 +11,5 @@ result [go to](https://davidalejandrom.github.io/JavaScript30/01-day/)
 ramdon color clock. 
 
 ![Result day 1](https://github.com/DavidAlejandroM/JavaScript30/blob/master/02-day/assets/img/02-day.png?raw=true)
-result [go to](https://davidalejandrom.github.io/JavaScript30/01-day/)
+result [go to](https://davidalejandrom.github.io/JavaScript30/02-day/)
 
