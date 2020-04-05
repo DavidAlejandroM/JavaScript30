@@ -19,3 +19,10 @@ Update CSS Variables with JS.
 
 ![Result day 1](https://github.com/DavidAlejandroM/JavaScript30/blob/master/03-day/assets/img/03-day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/03-day/)
+
+
+### Day 4 :smirk:
+Update CSS Variables with JS. 
+
+![Result day 1](https://github.com/DavidAlejandroM/JavaScript30/blob/master/04-day/assets/img/04-day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/04-day/)
