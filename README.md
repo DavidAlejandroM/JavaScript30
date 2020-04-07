@@ -33,3 +33,10 @@ Starwars flex panels.
 
 ![Result day 5](https://github.com/DavidAlejandroM/JavaScript30/blob/master/05-day/assets/img/05-day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/05-day/)
+
+
+### Day 6 :rocket:
+Codvid-19. 
+
+![Result day 6](https://github.com/DavidAlejandroM/JavaScript30/blob/master/06-day/assets/img/06-day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/06-day/)
