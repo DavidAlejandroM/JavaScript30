@@ -47,3 +47,10 @@ Array JS 2 part.
 
 ![Result day 6](https://github.com/DavidAlejandroM/JavaScript30/blob/master/07-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/07-day/index.html)
+
+
+### Day 8 :rocket:
+Canvas. 
+
+![Result day 8](https://github.com/DavidAlejandroM/JavaScript30/blob/master/08-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/08-day/index.html)
