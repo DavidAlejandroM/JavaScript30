@@ -54,3 +54,10 @@ Canvas.
 
 ![Result day 8](https://github.com/DavidAlejandroM/JavaScript30/blob/master/08-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/08-day/index.html)
+
+
+### Day 9 :rocket:
+Canvas. 
+
+![Result day 9](https://github.com/DavidAlejandroM/JavaScript30/blob/master/09-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/09-day/index.html)
