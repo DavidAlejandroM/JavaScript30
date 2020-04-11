@@ -57,7 +57,14 @@ result [go to](https://davidalejandrom.github.io/JavaScript30/08-day/index.html)
 
 
 ### Day 9 :rocket:
-Canvas. 
+Console 
 
 ![Result day 9](https://github.com/DavidAlejandroM/JavaScript30/blob/master/09-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/09-day/index.html)
+
+
+### Day 10 :rocket:
+Multi checkboxes. 
+
+![Result day 10](https://github.com/DavidAlejandroM/JavaScript30/blob/master/10-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/10-day/index.html)
