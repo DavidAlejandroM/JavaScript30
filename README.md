@@ -68,3 +68,10 @@ Multi checkboxes.
 
 ![Result day 10](https://github.com/DavidAlejandroM/JavaScript30/blob/master/10-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/10-day/index.html)
+
+
+### Day 11 :rocket:
+Multi checkboxes. 
+
+![Result day 11](https://github.com/DavidAlejandroM/JavaScript30/blob/master/11-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/11-day/index.html)
