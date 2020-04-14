@@ -80,5 +80,12 @@ result [go to](https://davidalejandrom.github.io/JavaScript30/11-day/index.html)
 ### Day 12 :rocket:
 Key sequence detection. 
 
-![Result day 11](https://github.com/DavidAlejandroM/JavaScript30/blob/master/12-day/assets/img/day.png?raw=true)
+![Result day 12](https://github.com/DavidAlejandroM/JavaScript30/blob/master/12-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/12-day/index.html)
+
+
+### Day 13 :rocket:
+Document. 
+
+![Result day 13](https://github.com/DavidAlejandroM/JavaScript30/blob/master/13-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/13-day/index.html)
