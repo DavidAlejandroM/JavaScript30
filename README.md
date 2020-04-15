@@ -89,3 +89,10 @@ Document.
 
 ![Result day 13](https://github.com/DavidAlejandroM/JavaScript30/blob/master/13-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/13-day/index.html)
+
+
+### Day 14 :rocket:
+JS Reference VS Copy. 
+
+![Result day 14](https://github.com/DavidAlejandroM/JavaScript30/blob/master/14-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/14-day/index.html)
