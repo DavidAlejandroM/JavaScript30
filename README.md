@@ -96,3 +96,10 @@ JS Reference VS Copy.
 
 ![Result day 14](https://github.com/DavidAlejandroM/JavaScript30/blob/master/14-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/14-day/index.html)
+
+
+### Day 15 :rocket:
+Storage 
+
+![Result day 15](https://github.com/DavidAlejandroM/JavaScript30/blob/master/15-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/15-day/index.html)
