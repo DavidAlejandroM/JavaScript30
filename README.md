@@ -103,3 +103,10 @@ Storage
 
 ![Result day 15](https://github.com/DavidAlejandroM/JavaScript30/blob/master/15-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/15-day/index.html)
+
+
+### Day 16 :rocket:
+Storage 
+
+![Result day 16](https://github.com/DavidAlejandroM/JavaScript30/blob/master/16-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/16-day/index.html)
