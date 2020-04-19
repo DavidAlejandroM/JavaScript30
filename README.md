@@ -117,3 +117,10 @@ Sort Without
 
 ![Result day 17](https://github.com/DavidAlejandroM/JavaScript30/blob/master/17-day/assets/img/day.png?raw=true)
 result [go to](https://davidalejandrom.github.io/JavaScript30/17-day/index.html)
+
+
+### Day 18 :rocket:
+Video
+
+![Result day 18](https://github.com/DavidAlejandroM/JavaScript30/blob/master/18-day/assets/img/day.png?raw=true)
+result [go to](https://davidalejandrom.github.io/JavaScript30/18-day/index.html)
